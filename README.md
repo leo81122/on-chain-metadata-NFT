@@ -11,7 +11,7 @@ https://mumbai.polygonscan.com/address/0x3A3D7bE961AD2eE4C78CFe55605dB0c43f82E71
 | NFT address:
 
 ```bash
-https://mumbai.polygonscan.com/tx/0x18dafd599af357e974feb60b255190f4d4cd4df8d9e2cff8ccecb13ced9e5cb3
+https://mumbai.polygonscan.com/token/0x3A3D7bE961AD2eE4C78CFe55605dB0c43f82E716
 ```
 
 | view on test.opensea:
